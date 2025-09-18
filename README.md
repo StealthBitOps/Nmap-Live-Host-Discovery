@@ -17,7 +17,7 @@
 - `Nmap` – Command-line network scanner.
 - TryHackMe lab – Target machine for scan practice.
 
-#### 🔄 Steps to Remember (Basic Scanning)
+#### 🔄 Steps to Remember (_Basic Scanning_)
 1. **Ping Scan** – Check if host is online.
 2. **Port Scan** – Identify open TCP/UDP ports.
 3. **Service Detection** – Discover running services and versions.
